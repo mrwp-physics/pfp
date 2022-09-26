@@ -39,6 +39,7 @@ Test the venv (they should both give a sensible output):\
 `pip list`
 - Start vscode:
 `code .`
+- Double-click *ball.py* in the folders on the left.
 - Install required modules for the test script to run (You can do this in vscode in the console window at the bottom of the screen)
 `pip install matplotlib`
 - In VSCode - on the left, Run > Run and Debug > Current window and hopefully you will have a running script. You can edit it as you like - if you get this far contact me and I will talk you through making your own copy of the script to play with.
