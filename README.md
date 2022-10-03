@@ -15,7 +15,7 @@
 - Send me the full contents of the file .ssh\id_rsa.pub (you can get this in cmd with:\
 `type c:\Users\<your user name>\.ssh\id_rsa.pub`
 - If you are like me, then ssh will not quite work yet - [you need to follow the instructions here](https://stackoverflow.com/questions/15589682/ssh-connect-to-host-github-com-port-22-connection-timed-out) to make a file config in your .ssh folder (not needed in WSL Debian!!)
-- Test ssh (this should not time out):\
+- Test ssh (this should not time out - if it does make sure you have done the above!)
 `ssh -T git@github.com`
 
 ## Now we will set up a project:
