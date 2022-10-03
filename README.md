@@ -4,6 +4,8 @@
 
 - Install git for windows, python, vscode (and if feeling pro, WSL and Debian)
 
+- run VScode, click on Extensions and install "Dev Containers"
+
 - In cmd (Windows + R then type cmd and hit enter)
 
 - Test and Set up git (expect no errors with these - google the errors if you get any)\
